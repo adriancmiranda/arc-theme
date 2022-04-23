@@ -10,19 +10,19 @@ This fork aims to keep the theme updated with new toolkit and desktop environmen
 
 ##### Arc
 
-![A screenshot of the Arc theme](https://raw.githubusercontent.com/jnsh/arc-theme/master/.github/arc-prv.png)
+![A screenshot of the Arc theme](https://raw.githubusercontent.com/adriancmiranda/arc-theme/master/.github/arc-prv.png)
 
 ##### Arc-Darker
 
-![A screenshot of the Arc-Darker theme](https://raw.githubusercontent.com/jnsh/arc-theme/master/.github/arc-darker-prv.png)
+![A screenshot of the Arc-Darker theme](https://raw.githubusercontent.com/adriancmiranda/arc-theme/master/.github/arc-darker-prv.png)
 
 ##### Arc-Dark
 
-![A screenshot of the Arc-Dark theme](https://raw.githubusercontent.com/jnsh/arc-theme/master/.github/arc-dark-prv.png)
+![A screenshot of the Arc-Dark theme](https://raw.githubusercontent.com/adriancmiranda/arc-theme/master/.github/arc-dark-prv.png)
 
 ##### Arc-Lighter
 
-![A screenshot of the Arc-Lighter theme](https://raw.githubusercontent.com/jnsh/arc-theme/master/.github/arc-lighter-prv.png)
+![A screenshot of the Arc-Lighter theme](https://raw.githubusercontent.com/adriancmiranda/arc-theme/master/.github/arc-lighter-prv.png)
 
 ## Supported toolkits and desktops
 
@@ -42,17 +42,17 @@ Arc comes with themes for the following:
 
 Arc Theme is available from the official software package repositories for many common Linux distributions and FOSS operating systems. Installing the theme by using the package manager of your operating system should be the preferred method in most cases.
 
-See [the wiki](https://github.com/jnsh/arc-theme/wiki/Packages) for non-exhaustive list of distribution packages, and some additional packages.
+See [the wiki](https://github.com/adriancmiranda/arc-theme/wiki/Packages) for non-exhaustive list of distribution packages, and some additional packages.
 
 #### Manual installation
 
-For installing the theme by compiling it from the source code, see [INSTALL.md](https://github.com/jnsh/arc-theme/blob/master/INSTALL.md) for build instructions, list of dependencies, build options and additional details.
+For installing the theme by compiling it from the source code, see [INSTALL.md](https://github.com/adriancmiranda/arc-theme/blob/master/INSTALL.md) for build instructions, list of dependencies, build options and additional details.
 
 ## Issues
 
 If you are experiencing any kind of issues, found a bug, or have a suggestion for improving the theme, please open an issue at <https://github.com/jnsh/arc-theme/issues>.
 
-Some known issues are addressed in [common problems](https://github.com/jnsh/arc-theme/wiki/Common-problems).
+Some known issues are addressed in [common problems](https://github.com/adriancmiranda/arc-theme/wiki/Common-problems).
 
 ## Contributing
 
@@ -60,7 +60,7 @@ If you'd like to contribute to the project, open an pull request, or an issue fo
 
 ## License
 
-Arc is available under the terms of the GPL-3.0. See [COPYING](https://github.com/jnsh/arc-theme/blob/master/COPYING) for details.
+Arc is available under the terms of the GPL-3.0. See [COPYING](https://github.com/adriancmiranda/arc-theme/blob/master/COPYING) for details.
 
 ## Full Preview
 
